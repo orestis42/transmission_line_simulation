@@ -1,5 +1,8 @@
 # Transmission Line Visualization
 
+![image](https://github.com/orestis42/transmission_line_visualization/assets/37120208/713d9099-3275-4012-aafa-24313d799add)
+
+
 ## Overview
 This script provides a comprehensive analysis and visualization of the magnetic field around two parallel cylindrical conductors (ideal transmission line) using Python. The conductors are aligned along the z-axis with a constant current flowing through them.
 
