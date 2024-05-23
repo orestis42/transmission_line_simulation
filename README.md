@@ -1,4 +1,4 @@
-# Transmission Line visualization
+# Transmission Line Visualization
 
 ## Overview
 This script provides a comprehensive analysis and visualization of the magnetic field around two parallel cylindrical conductors (ideal transmission line) using Python. The conductors are aligned along the z-axis with a constant current flowing through them.
@@ -20,12 +20,12 @@ To install the necessary dependencies, use [`pipenv`](https://github.com/pypa/pi
 Clone the repository.
 
 ```bash
-git clone git@github.com:orestis42/current_density_visualization.git
+git clone git@github.com:orestis42/transmission_line_visualization.git
 ```
 
 Navigate to the project directory.
 ```bash
-cd current_density_visualization
+cd transmission_line_visualization
 ```
 
 Install dependencies using pipenv.
