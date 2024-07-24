@@ -7,7 +7,6 @@ pkgs.mkShell {
     pkgs.python39Packages.matplotlib
     pkgs.python39Packages.numba
     pkgs.python39Packages.tkinter
-    pkgs.poetry
   ];
 
   shellHook = ''
