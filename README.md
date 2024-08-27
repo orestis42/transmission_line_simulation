@@ -18,7 +18,7 @@ The script addresses the following tasks related to the electromagnetic field an
 
 ## Installation
 
-To install the necessary dependencies, use [`pipenv`](https://github.com/pypa/pipenv?tab=readme-ov-file#installation). It is recommended to use a virtual environment to manage your dependencies.
+To install the necessary dependencies.[`Pipenv`](https://github.com/pypa/pipenv?tab=readme-ov-file#installation) and [`tkinter`](https://docs.python.org/3/library/tkinter.html) should be installed in your global python environment. Pipenv is used for virtual environment management.
 
 Clone the repository.
 
